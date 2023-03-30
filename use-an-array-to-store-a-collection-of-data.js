@@ -1,1 +1,0 @@
-let yourArray = ["Levi", 73, true, 'moon', null]; // Change this line
